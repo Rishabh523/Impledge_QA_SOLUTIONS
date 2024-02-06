@@ -30,7 +30,7 @@ This Python script automates Test Case 01 (Add a package) and Test Case 02 (Dele
 
 
 
-#Exercise 2: Postman 
+# Exercise 2: Postman 
 ## EasyPost API Testing
 
 ## Steps to Execute the Code:
