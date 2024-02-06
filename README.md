@@ -1,4 +1,4 @@
-# Automated Test Cases for Package Management System
+# AutomatedSourceCode Test Cases for Adding/Deleting a Package 
 
 ## Overview:
 This Python script automates Test Case 01 (Add a package) and Test Case 02 (Delete a package) using Selenium WebDriver. The script navigates to the specified application URL, interacts with the web elements to perform the required actions, and then closes the browser.
