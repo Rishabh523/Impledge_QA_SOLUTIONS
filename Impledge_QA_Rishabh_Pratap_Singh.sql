@@ -11,7 +11,7 @@ UPDATE Orders SET CustomerId = 4 WHERE CustomerId = 35;
 -- •Find details of Shipper(s) who has got Orders:--
 SELECT DISTINCT Shippers.*
 FROM Shippers
-JOIN Orders ON Shippers.ShipperID = Orders.ShipperID;
+INNER JOIN Orders ON Shippers.ShipperID = Orders.ShipperID;
 
 -- •Find details of Shipper(s) for whom there is no Order:--
 SELECT Shippers.*
